@@ -1,3 +1,4 @@
+
 class Spider{
     constructor(game){
         this.game=game;
